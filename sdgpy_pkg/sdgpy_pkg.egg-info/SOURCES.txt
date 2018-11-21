@@ -1,0 +1,7 @@
+README.md
+setup.py
+sdgpy_pkg/__init__.py
+sdgpy_pkg.egg-info/PKG-INFO
+sdgpy_pkg.egg-info/SOURCES.txt
+sdgpy_pkg.egg-info/dependency_links.txt
+sdgpy_pkg.egg-info/top_level.txt

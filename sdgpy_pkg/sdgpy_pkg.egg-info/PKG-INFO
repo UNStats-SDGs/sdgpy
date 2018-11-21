@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sdgpy-pkg
+Version: 0.0.1
+Summary: Python Package for working with ArcGIS Online and SDG data
+Home-page: https://github.com/unsd/sdgpy
+Author: Travis Butcher (esri)
+Author-email: tbutcher@esri.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
