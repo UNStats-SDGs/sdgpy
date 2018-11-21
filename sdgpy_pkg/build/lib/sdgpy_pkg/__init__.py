@@ -1,1 +1,0 @@
-name = "sdgpy_pkg"
